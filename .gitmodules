@@ -1,0 +1,3 @@
+[submodule "fastwave"]
+	path = fastwave
+	url = https://github.com/arnavdas88/fastwave
